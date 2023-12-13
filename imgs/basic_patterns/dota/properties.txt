@@ -1,0 +1,17 @@
+{
+    'plane': (220, 200, 0.5, 0.8),
+    'baseball-diamond': (200, 200, 0.3, 0.3),
+    'bridge': (120, 40, 0.5, 0.8),
+    'ground-track-field': (240, 160, 0.5, 0.3),
+    'small-vehicle': (36, 16, 0.3, 0.3),
+    'large-vehicle': (76, 20, 0.4, 0.8),
+    'ship': (76, 26, 0.4, 0.5),
+    'tennis-court': (168, 74, 0.4, 0.3),
+    'basketball-court': (176, 94, 0.4, 0.3),
+    'storage-tank': (76, 76, 0.7, 0.2),
+    'soccer-ball-field': (240, 160, 0.5, 0.3),
+    'roundabout': (240, 240, 0.6, 0.2),
+    'harbor': (264, 50, 0.4, 0.9),
+    'swimming-pool': (78, 48, 0.4, 0.6),
+    'helicopter': (100, 40, 0.3, 0.3)
+}
